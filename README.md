@@ -17,4 +17,5 @@ Edit IGNORE_FOLDERS to ingore certain foles.
 ## Run
 
 chmod +x piiInspector.py
+
 ./piiInspector.py ...folder to inspect....
